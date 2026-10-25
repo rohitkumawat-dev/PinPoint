@@ -1,2 +1,2 @@
 # PinPoint
-A Geography Quiz/ World knowing website , designed for curious folks who takes interest in knowing our earth more.
+A Geography Quiz/ World knowing website , designed for curious folks who takes interest in knowing our earth more.....
